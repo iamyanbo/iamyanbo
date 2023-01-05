@@ -2,7 +2,7 @@
 
 My name is Yanbo Cheng
 - Computer Science at University of Toronto
-- I am interested in working ML models and full stack development
+- I am interested in working with ML models and full stack development
 - Enjoys swimming, hanging out with friends, and programming
 
 [![iamyanbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyanbo)](https://github.com/iamyanbo/github-readme-stats)
