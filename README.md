@@ -1,7 +1,7 @@
 ### Hello 👋
 
 My name is Yanbo Cheng
-- Computer Science at University of Toronto
+- Masters engineering at University of Waterloo
 - I am interested in working with ML models and full stack development
 - Enjoys swimming, hanging out with friends, and programming
 <!--
