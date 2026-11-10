@@ -1,27 +1,20 @@
-### Hello 👋
+# Yanbo Cheng
 
-My name is Yanbo Cheng
+## [Explore my research portfolio →](https://iamyanbo.github.io/)
 
-**Computer Vision Researcher, 3D perception and LiDAR**
+**Waterloo MASc student researching world models, vision-language models and 3D perception.**
 
-I developed [Difficulty Painting](https://github.com/iamyanbo/DifficultyPainting), which paints learned detection difficulty onto LiDAR point clouds. With SECOND, it achieved a reported **82.51% moderate 3D mAP on KITTI validation** across cars, pedestrians, and cyclists (IoU 0.7 / 0.5 / 0.5).
+I study how learned representations support prediction and planning. I’m looking for ML research internships and research roles, with particular interests in language models, VLMs and world models.
 
-[CURI: Cumulative Research & Inquiry](https://github.com/iamyanbo/CURI)
+[Résumé / CV](https://iamyanbo.github.io/assets/Yanbo-Cheng-resume.pdf) · [Email](mailto:yanbocheng01234@gmail.com) · [LLM notes](https://iamyanbo.github.io/llm-notes/)
 
-- Masters engineering at University of Waterloo
-- I am interested in working with ML models and full stack development
-- Enjoys swimming, hanging out with friends, and programming
-<!--
-**iamyanbo/iamyanbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Selected work
 
-Here are some ideas to get you started:
+- **[LLM notes](https://iamyanbo.github.io/llm-notes/)**: Interactive explanations of attention, transformer architectures, training and inference, with worked mathematics and diagrams.
+- **[CURI](https://iamyanbo.github.io/curi.html)**: A research runtime for experiments, independent verification and evidence tracking. [Code and run report](https://github.com/iamyanbo/CURI).
+- **[Image-goal UAV navigation](https://iamyanbo.github.io/#project-world-model)**: Visual prediction and memory for long-horizon navigation, with measured results and limitations kept separate from research goals. [Earlier public code](https://github.com/iamyanbo/UAV).
+- **[Difficulty Painting](https://github.com/iamyanbo/DifficultyPainting)**: Learned detection difficulty projected from camera images onto LiDAR points. With SECOND, the project reports **82.51% moderate 3D mAP on KITTI validation** across cars, pedestrians and cyclists (IoU 0.7 / 0.5 / 0.5). Input and augmentation changes mean the full gain cannot be attributed to difficulty alone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More experiments, engineering projects and research notes are on my **[portfolio](https://iamyanbo.github.io/)**.
+
+Outside research, I enjoy swimming, spending time with friends and building things.
